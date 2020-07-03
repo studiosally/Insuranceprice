@@ -1,3 +1,8 @@
+https://musing-mayer-f7287c.netlify.app/
+
+Insurance price excersice made with react
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
